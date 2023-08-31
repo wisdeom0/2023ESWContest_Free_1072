@@ -1,5 +1,3 @@
-# final_def
-
 import time
 import csv
 import cv2
@@ -12,9 +10,7 @@ import numpy as np
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 
-############ (합칠때는 지워져야 하는 부분)
 exe_gui = '랫풀 다운'  # 입력: 운동명
-##########################################
 
 # data
 data_keypoint_names_2 = ['Nose', 'Left Shoulder', 'Right Shoulder',
