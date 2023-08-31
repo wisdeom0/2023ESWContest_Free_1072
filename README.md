@@ -6,7 +6,7 @@
 관절 keypoint를 기반으로 운동 동작의 정확도를 판별하고, 수정 동작을 제안하는 자세 교정 알고리즘의 설계
 
 시연 영상 링크: https://www.youtube.com/watch?v=cGyXJUXitOc
-![image](https://github.com/wisdeom0/2023ESWContest_Free_1072/assets/132832024/345c610f-b38c-42fe-9e5a-f1d600b01012)
+
 
 
 ![image](https://github.com/wisdeom0/2023ESWContest_Free_1072/assets/132832024/fb495e11-811b-4189-a3d9-1b3f5144a943)
