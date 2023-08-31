@@ -1,5 +1,3 @@
-#스토리지의 87% 사용됨 … 소진 시 스토리지가 부족해 파일을 만들거나 수정하거나 업로드할 수 없게 됩니다. 3개월 동안 100GB 스토리지를 월 ₩2,400 ₩600에 이용하세요.
-# 센서 읽어오고 그러한 센서 관련 함수용 파일
 import RPi.GPIO as GPIO
 import mfrc522
 import signal
@@ -7,9 +5,6 @@ import time
 GPIO.setwarnings(False)
 
 continue_reading = True
-
-# Capture SIGINT for cleanup when the script is aborted
-
 
 def end_read(signal, frame):
     global continue_reading
